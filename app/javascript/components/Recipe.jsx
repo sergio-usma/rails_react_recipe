@@ -17,7 +17,11 @@ const Recipe = () => {
             })
         .then((response) => setRecipe(response))
         .catch(() => navigate('/recipes'));
-    },[params.id])
+    },[params.id]);
+
+    const addHtmlEntities = (str) => {
+        return String(str).replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+    };
 };
 
 export default Recipe;
