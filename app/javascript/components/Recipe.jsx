@@ -95,6 +95,7 @@ const Recipe = () => {
                         <button
                             type="button"
                             className="btn btn-danger"
+                            onClick={deleteRecipe}
                         >
                             Delete Recipe
                         </button>
