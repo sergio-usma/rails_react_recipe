@@ -6,6 +6,13 @@ const NewRecipe = () => {
     const [name, setName] = useState("");
     const [ingredients, setIngredients] = useState("");
     const [instruction, setInstruction] = useState("");
+
+    const stripHtmlEntities = (str) => {
+        return String(str)
+            .replace(/\n/g, "<br> <br>")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;");
+    };
 };
 
 export default NewRecipe;
