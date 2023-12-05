@@ -131,7 +131,7 @@ Feel free to check the [issues page](https://github.com/sergio-usma/rails_react_
 If you like this project, please consider supporting us! Your support helps us to continue developing and improving our project for everyone to enjoy. Whether it's a small donation, sharing the project with your friends, or contributing your skills and expertise, every little bit makes a huge difference. With your support, we can create something truly amazing together. Thank you for being a part of our community and helping us to make a difference!
 
 ## 🙏 Acknowledgment <a name="Acknowledgment"></a>
-I would like to express my heartfelt gratitude to [Microverse](https://github.com/microverseinc) for providing us with the opportunity to work on this project.
+I would like to express my heartfelt gratitude to [Microverse](https://github.com/microverseinc) for providing us with the opportunity to work on this project. I also recognize the good job of Chuks Opia for writing the article 'How To Set Up a Ruby on Rails v7 Project with a React Frontend on Ubuntu 20.04' Published on November 4, 2022, at [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04)
 
 ## 📜 License <a name="license"></a>
 
